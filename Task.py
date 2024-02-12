@@ -167,7 +167,7 @@
 
 # input_roll_number = int(input("Enter your roll number: "))
 
-# present_roll_numbers = [101, 102, 103, 104, 105]
+# present_roll_numbers = [1, 2, 3, 4, 5, 6]
 
 # today_attendance = attendance(input_roll_number, present_roll_numbers)
 
